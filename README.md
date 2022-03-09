@@ -79,7 +79,7 @@
    <img src="https://img.icons8.com/color/96/4a90e2/kali-linux.png" width=45 height=45></img>
    <img src="https://img.icons8.com/doodle/96/000000/canva.png" width=45 height=45></img>
    <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width=45 height=45></img>
-  <!-- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="43" height="43"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -107,7 +107,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://cdnlogo.com/logos/m/10/mysql.svg" alt="mysql" width="43" heigth="43" /></a>
- -->
+
 </p>
 
 
