@@ -4,27 +4,32 @@
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Abhijit25Mishra&theme=dark&show_icons=true&locale=en" alt="Abhijit25Mishra"  ></p>
 
-- I am 18 years old student who loves programming.
-- I am working on websites these days.
-- I am trying to learn Solidity and Blockchain.
-- I plan on joining a Software Engineering role that challenges the best of me.
-- I would be love to colloborate and build together meanwhile star my previous projects .
+- I am 21 years old student who loves programming.
+- I am learning about systems, and why they are built the way they are.
+- I currently work as a data engineer at Jio Platforms. 
+- I would be love to collaborate and build together. DM me on linkedin or gmail.
 
 <h3 align="left">Contact with me:</h3>
-<p>
 
 <p>
-<a href="https://stackoverflow.com/users/18060618/abhijit-mishra"><img align="left" src="https://img.shields.io/badge/Stack Overflow-Abhijit-orange?style=for-the-badge&logo=stackoverflow" /></a>
+<a href="https://www.linkedin.com/in/abhijit-mishra-52b6b31b3/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="abhijit25mishra@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+   <a href="https://codeforces.com/profile/panda_2500"><img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /> </a>
+   <a href="https://abhijit-mishra-sepia.vercel.app/"><img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 </p>
-<p align="left">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1">
-</p>
-<p>
-<a href="https://discord.com/users/530423545994412034"><img align="left" src="https://img.shields.io/badge/Discord-JuicyMelon%238500-8EA1E1?style=for-the-badge&logo=discord" /> </a>
-</p>
-<p align="left">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1">
-</p>
+   
+<!-- <p> -->
+<!-- <a href="https://stackoverflow.com/users/18060618/abhijit-mishra"><img align="left" src="https://img.shields.io/badge/Stack Overflow-Abhijit-orange?style=for-the-badge&logo=stackoverflow" /></a> -->
+<!-- </p> -->
+<!-- <p align="left"> -->
+<!-- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1"> -->
+<!-- </p> -->
+<!-- <p> -->
+<!--    <a href="https://discord.com/users/530423545994412034"><img align="left" src="https://img.shields.io/badge/Discord-JuicyMelon%238500-8EA1E1?style=for-the-badge&logo=discord" /> </a> -->
+<!-- </p> -->
+<!-- <p align="left"> -->
+<!-- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="1" heigth="1"> -->
+<!-- </p> -->
 <br>
 <br>
 <br>
